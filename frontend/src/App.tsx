@@ -52,7 +52,7 @@ function App() {
         placeholder="New todo"
       />
       <button onClick={addTodo}>Add</button>
-      <p>Testing GitDoc!</p>
+      <p>Testingklkjfdnskjg GitDoc!</p>
       <ul>
         {todos.map((todo) => (
           <li key={todo.id}>{todo.text}
